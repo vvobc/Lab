@@ -2,7 +2,7 @@
 #include <math.h>
 #include <conio.h>
 #include <string.h>
-#define MAXBITS 32
+#define MAXBITS 64 //B edit
 int main()
 {
     double DecimalPoint,Buff;
