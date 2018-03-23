@@ -3,7 +3,7 @@
 #include <conio.h>
 #include <string.h>
 #define MAX 128
-int Binary(int data[],char text[])
+int Binary(int data[],char text[])//asdfghkl;
 {
     int x,i;
     char str[500];
