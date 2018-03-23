@@ -6,7 +6,7 @@
 int Binary(int data[],char text[])
 {
     int x,i;
-    char str[400];
+    char str[90];
     do
     {
         x=0;
