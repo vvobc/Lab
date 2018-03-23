@@ -2,11 +2,11 @@
 #include <math.h>
 #include <conio.h>
 #include <string.h>
-#define MAX 8
+#define MAX 128
 int Binary(int data[],char text[])
 {
     int x,i;
-    char str[400];
+    char str[500];
     do
     {
         x=0;
