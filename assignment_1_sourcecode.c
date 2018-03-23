@@ -6,7 +6,11 @@
 int Binary(int data[],char text[])//asdfghkl;
 {
     int x,i;
+<<<<<<< HEAD
+    char str[90];
+=======
     char str[500];
+>>>>>>> ec67c9336dbb160ae1a54564a16b7747a912b086
     do
     {
         x=0;
